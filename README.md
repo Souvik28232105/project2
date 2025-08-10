@@ -1,4 +1,4 @@
 # New Project
 
 This project is created from local system.
-created by Souvik dey
+created by Souvik dey.
